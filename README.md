@@ -1,1 +1,1 @@
-# git_learning
+# This is Git Learning Repository.
